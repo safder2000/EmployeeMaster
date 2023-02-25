@@ -1,16 +1,15 @@
 # employee_master
 
-A new Flutter project.
+CWL Technology(delhi) mechine test
 
-## Getting Started
+fuctionality - 
+✅ login
+✅ employee count
+✅ employee lsit
+✅ add employee
+✅ delete employee
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+pending-
+- logout(add side menu,logout option)
+- edit (bottom sheet 👍(copy of 'add sheet'))
+- search (nothing done yet exept an icon)
