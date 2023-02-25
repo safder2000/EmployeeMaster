@@ -1,6 +1,6 @@
 # employee_master
 
-CWL Technology(delhi) mechine test
+mechine test
 
 fuctionality - 
 - ✅ login
